@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.9 (C:\Python27\python.exe)" project-jdk-type="Python SDK" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 (C:\Python27\python.exe)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.12 (D:\Python27\python.exe)" project-jdk-type="Python SDK" />
+>>>>>>> ef1b3f9c5fcf883f8a0d66a2849b25c6f6a84930
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 (C:\Python27\python.exe)" project-jdk-type="Python SDK" />
+>>>>>>> wxp
+>>>>>>> 399cb23a34cb1544697100c62c3807a872e92785
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.12 (D:\Python27\python.exe)" project-jdk-type="Python SDK" />
+>>>>>>> 4c3f8bf9fb80d64969a01cc54b317f9e6ea86bc0
+</project>

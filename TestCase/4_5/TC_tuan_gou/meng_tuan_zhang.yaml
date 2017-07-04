@@ -1,0 +1,17 @@
+#myBtn = (By.XPATH, '//android.widget.RelativeLayout[1]/android.widget.LinearLayout/android.widget.RelativeLayout[4]')
+- mengtuan:
+  name: John Smith
+  age: 37
+  spouse:
+    name: Jane Smith
+    age: 25
+  children:
+    - name: Jimmy Smith
+      age: 15
+    - name: Jenny Smith
+      age: 12
+- mengtuan2:
+  by: //android.widget.RelativeLayout[1]/android.widget.LinearLayout/android.widget.RelativeLayout[4]
+  type: xpath
+
+
